@@ -1,0 +1,11 @@
+{
+  "name": "join-monster-template",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "graphql-tools": "^8.2.0",
+    "join-monster": "^3.0.4",
+    "join-monster-graphql-tools-adapter": "^0.1.1"
+  }
+}
